@@ -11,4 +11,4 @@ Rechercher un outile pour créer un diagramme de classe en ligne avec collaborat
 
 #### Réference
 
-[Visual paradigme](https://online.visual-paradigm.com/share.jsp?id=323432363334302d32)
+[Visual paradigme](https://online.visual-paradigm.com/diagrams/templates/class-diagram/)
